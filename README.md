@@ -4,6 +4,19 @@
 
 ---
 
+## 🛠️ Стек технологий
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-189FDD?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
 ## 📋 О проекте
 
 Проект посвящён решению задачи **бинарной классификации** для обнаружения мошеннических операций по кредитным картам. Основная сложность задачи — **сильный дисбаланс классов**: мошеннические транзакции составляют менее 0.2% от всех операций.
@@ -84,19 +97,6 @@
 - **Топ-15 важных признаков** — по `feature_importances_`
 
 Также для каждой модели (за искл. регрессии) строились **тепловые карты PR-AUC** по сетке гиперпараметров.
-
----
-
-## 🛠️ Стек технологий
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-189FDD?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-4C72B0?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
